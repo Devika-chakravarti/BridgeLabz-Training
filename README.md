@@ -1,18 +1,26 @@
-\### 🗓 Day 2 – Git Practice \& Basic Java Programs  
+### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
-\*(Date: 17-Dec-2025)\*
+---
 
+### 🗓 Day 1 – Git & GitHub Setup  
+**(Date: 16-Dec-2025)**
 
-
-\- Practiced Git workflow to understand commits and version control.
-
-\- Solved very basic Java programs to understand syntax and structure.
-
-\- Practiced adding, committing, and pushing Java files to GitHub.
-
-
-
-🔗 \*Code Link:\*  
-
-👉 \[Day 2 – Basic Java Programs](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
-
+- Installed and configured Git.
+- Set up GitHub repository.
+```
+BridgeLabz-Training/
+│── core-java-practice/
+│ │── gcr-codebase/
+│ │ │── arrays/
+│ │ │── control-flow/
+│ │ │── extras/
+│ │ │── methods/
+│ │ │── programming-elements/
+│ │ │── programming-requisites/
+│ │ │── strings/
+│ │── leet-code-codebase/
+│ │── scenario-based-codebase/
+│── README.md
+```
+- Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
+- Successfully pushed files to the remote repository.

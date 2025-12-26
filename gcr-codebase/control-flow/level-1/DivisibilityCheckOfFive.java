@@ -14,6 +14,6 @@ public class DivisibilityCheckOfFive{
 			System.out.println("Is the number " + number + " divisible by 5?" + " NO ");
 		}
 
-
+		input.close();
 	}
 }

@@ -15,25 +15,25 @@ public class UnitConvertorExtenderVersionThree{
 
 	// static method to convert pounds into kilograms
 	public static double convertpounds2kilograms(double pounds){
-		double pounds2kilograms = 0.453592
+		double pounds2kilograms = pounds * 0.453592;
 		return pounds2kilograms;
 	}
 
 	// static method to convert kilograms into pounds
 	public static double convertkilograms2pounds(double kilograms){
-		double kilograms2pounds = 2.20462;
+		double kilograms2pounds = kilograms * 2.20462;
 		return kilograms2pounds;
 	}
 
 	// static method to convert gallons into liters
 	public static double convertgallons2liters(double gallons){
-		double gallons2liters = 3.78541;
+		double gallons2liters = gallons * 3.78541;
 		return gallons2liters;
 	}
 
 	// static method to convert liters into gallons
 	public static double convertliters2gallons(double liters){
-		double liters2gallons = 0.264172;
+		double liters2gallons = liters * 0.264172;
 		return liters2gallons;
 	}
 

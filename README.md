@@ -178,3 +178,24 @@ BridgeLabz-Training/
 👉 [Day 9 – Scenario-based](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
+
+### 🗓 Day 10 – Leetcode and Scenario-based questions  
+**(Date: 26-Dec-2025)**
+  
+- Leetcode problems(Array problems):
+  - Count Primes
+  - Find peak element
+  - Missing number
+  - Move zeroes
+- Scenario-based problems:
+  - Election Booth Manager
+  - Metro Smart Card Fare Deduction
+  - Raj's Result Generator
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+  
+🔗 *Code Link:*  
+👉 [Day 10 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+👉 [Day 10 – Scenario-based](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---

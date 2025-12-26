@@ -12,7 +12,7 @@ public class WordLength2DArray{
                 		count++;  //increase the count value by 1 each time
             		}
         	} 
-		catch(Exception e){
+			catch(Exception e){
             		return count;	// return count when index goes out of range
         	}
     	}
@@ -20,23 +20,23 @@ public class WordLength2DArray{
 
     	// Method to split text into words using charAt()
     	public static String[] splitTextUsingCharAt(String text){
-		// get the length of the text
+			// get the length of the text
         	int length = findLength(text);
         	// Count how many words are present
         	int wordCount = 1;
         	for(int i = 0; i < length; i++){
             		if(text.charAt(i) == ' '){
-				// increase count when space is found
+						// increase count when space is found
                 		wordCount++;
             		}
         	}
-		// Array words to store all words
+			// Array words to store all words
         	String[] words = new String[wordCount];
         	// starting index of array
-		int start = 0;
-		// index for words array
+			int start = 0;
+			// index for words array
         	int wordIndex = 0;
-		// extract words using space position
+			// extract words using space position
         	for(int i = 0; i < length; i++){
             		if(text.charAt(i) == ' '){
                 		words[wordIndex++] = text.substring(start,i);
@@ -53,7 +53,7 @@ public class WordLength2DArray{
     	// Method to create 2D array of word and its length
     	public static String[][] createWordLength2DArray(String[] words){
         	String[][] result = new String[words.length][2];
-		// Store the word and it's length
+			// Store the word and it's length
         	for(int i = 0; i < words.length; i++){
 			// word
             		result[i][0] = words[i];

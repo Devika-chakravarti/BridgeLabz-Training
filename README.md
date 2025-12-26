@@ -1,7 +1,5 @@
 ## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
----
-
 ### 🗓 Day 1 – Git & GitHub Setup  
 **(Date: 15-Dec-2025)**
 
@@ -113,4 +111,20 @@ BridgeLabz-Training/
 
 ---
 
+## 📅 Week 2: Strings & Extra Programming Fundamentals
+
+### 🗓 Day 7 – Java Strings
+**(Date: 22-Dec-2025)**
+
+- Studied String concepts:
+ - String creation
+ - String methods
+ - Character processing
+- Implemented programs for string manipulation.
+- Committed and pushed solutions to the repository.
+
+🔗 *Code Link:*  
+👉 [Day 7 – Strings](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+
+---
 

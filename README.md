@@ -4,11 +4,11 @@
 **(Date: 26-Dec-2025)**
 
 - Basic OOPs concepts:
- - Class and Objects
- - Polymorphism
- - Abstraction
- - Encapsulation
- - Inheritance
+  - Class and Objects
+  - Polymorphism
+  - Abstraction
+  - Encapsulation
+  - Inheritance
 - Implemented programs for Class and Objects.
 - Organized programs into appropriate folders.
 - Committed and pushed solutions to the repository.

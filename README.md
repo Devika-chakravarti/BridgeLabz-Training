@@ -157,3 +157,24 @@ BridgeLabz-Training/
 👉 [Day 8 – Extras](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
 
 ---
+
+### 🗓 Day 9 – Leetcode and Scenario-based questions  
+**(Date: 24-Dec-2025)**
+  
+- Leetcode problems(Array problems):
+  - Two Sum
+  - Single Number
+  - Remove element
+  - Best time to buy and sell stock
+  - Majority element
+- Scenario-based problems:
+  - The Coffee Counter Chronicles
+  - Maya's BMI Fitness Tracker
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+  
+🔗 *Code Link:*  
+👉 [Day 9 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+👉 [Day 9 – Scenario-based](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---

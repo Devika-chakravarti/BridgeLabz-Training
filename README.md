@@ -3,15 +3,27 @@
 ### 🗓 Day 10 – Eclipse environment setup and Basic OOPs concept
 **(Date: 26-Dec-2025)**
 
-- Basic OOPs concepts:
-  - Class and Objects
-  - Polymorphism
-  - Abstraction
-  - Encapsulation
-  - Inheritance
-- Implemented programs for Class and Objects.
-- Organized programs into appropriate folders.
-- Committed and pushed solutions to the repository.
+- Installed and configured Eclipse.
+- Set up and reviewed the `java-oops-practice` branch structure.
+```
+BridgeLabz-Training/
+│── java-oops-practice/
+│   │── gcr-codebase/
+│   │   │── JavaOopsConcepts/
+│   │   │   │── src/
+│   │   │   │   │── com/
+│   │   │   │   │   │── classandobjects/
+│   │
+│   │── leet-code-codebase/
+│   │── scenario-based-codebase/
+│   │── .gitignore
+│── README.md
+```
+- Introduced Object-Oriented Programming (OOP).
+- Understood the difference between Procedural Programming and OOP.
+- Learned why OOP is used in modern applications.
+- Prepared to begin Classes and Objects.
+- Committed and pushed all work.
 
 🔗 *Code Link:*  
 👉 [Day 10 – Class and Objects](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobjects)

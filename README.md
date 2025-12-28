@@ -98,3 +98,119 @@ BridgeLabz-Training/
 
 ---
 
+## 📅 Week 2: Strings & Extra Programming Fundamentals
+
+### 🗓 Day 7 – Java Strings  (Branch: core-java-practice)
+**(Date: 22-Dec-2025)**
+
+- Studied String concepts:
+ - String creation
+ - String methods
+ - Character processing
+- Implemented programs for string manipulation.
+- Committed and pushed solutions to the repository.
+
+---
+
+### 🗓 Day 8 – Extra Built-in Functions & String Practice  (Branch: core-java-practice) 
+**(Date: 23-Dec-2025)**
+  
+- Practiced Java built-in classes such as Math and Random.
+- Worked with date and time handling using Java 8+ date-time APIs:
+  - LocalDate
+  - LocalTime
+  - LocalDateTime
+  - ZonedDateTime
+  - DateTimeFormatter
+- Practiced String concepts including:
+  - Creating strings and taking string input
+  - Escape sequences (\)
+  - String arrays
+  - Strings as method parameters
+  - Built-in String class methods
+  - ASCII character codes
+- Studied Java exception handling concepts:
+  - Java exception hierarchy
+  - Checked and unchecked exceptions
+  - java.lang.RuntimeException
+- Implemented utility programs such as a temperature converter.
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 9 – Leetcode and Scenario-based questions  (Branch: core-java-practice)
+**(Date: 24-Dec-2025)**
+  
+- Leetcode problems(Array problems):
+  - Two Sum
+  - Single Number
+  - Remove element
+  - Best time to buy and sell stock
+  - Majority element
+- Scenario-based problems:
+  - The Coffee Counter Chronicles
+  - Maya's BMI Fitness Tracker
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+ 
+---
+
+### 🗓 Day 10 – Leetcode and Scenario-based questions  (Branch: core-java-practice)
+**(Date: 26-Dec-2025)**
+  
+- Leetcode problems(Array problems):
+  - Count Primes
+  - Find peak element
+  - Missing number
+  - Move zeroes
+- Scenario-based problems:
+  - Election Booth Manager
+  - Metro Smart Card Fare Deduction
+  - Raj's Result Generator
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+ 
+---
+
+## 📅 Week 2: OOPs Concept and working on eclipse 
+
+### 🗓 Day 10 – Eclipse environment setup and Basic OOPs concept  (Branch: java-oops-practice)
+**(Date: 26-Dec-2025)**
+
+- Installed and configured Eclipse.
+- Set up and reviewed the `java-oops-practice` branch structure.
+```
+BridgeLabz-Training/
+│── java-oops-practice/
+│   │── gcr-codebase/
+│   │   │── JavaOopsConcepts/
+│   │   │   │── src/
+│   │   │   │   │── com/
+│   │   │   │   │   │── classandobjects/
+│   │
+│   │── leet-code-codebase/
+│   │── scenario-based-codebase/
+│   │── .gitignore
+│── README.md
+```
+- Introduced Object-Oriented Programming (OOP).
+- Understood the difference between Procedural Programming and OOP.
+- Learned why OOP is used in modern applications.
+- Prepared to begin Classes and Objects.
+- Committed and pushed all work.
+
+---
+
+### 🗓 Day 11 – Constructor and it's programming questions  (Branch: java-oops-practice)
+**(Date: 27-Dec-2025)**
+
+- Introduction to Constructor.
+- Types of constructor(`Default`, `parameterized` and `copy`)
+- Access modifiers(`public`, `protected`, `default` and `private`)
+- Instance Vs class variables and methods.
+- Learned best practices to use access modifiers.
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+---

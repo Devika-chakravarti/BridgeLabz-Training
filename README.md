@@ -30,3 +30,18 @@ BridgeLabz-Training/
 
 ---
 
+### 🗓 Day 11 – Constructor and it's programming questions
+**(Date: 27-Dec-2025)**
+
+- Introduction to Constructor
+- Types of constructor(Default, parameterized and copy)
+- Access modifiers(public, protected, default, private)
+- Instance Vs class variables and methods
+- Learned best practices to use access modifiers
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 11 – Constructor](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/levelone)
+
+---

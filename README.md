@@ -217,6 +217,7 @@ BridgeLabz-Training/
 👉 [Day 11 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
 
 ---
+## 📅 Week 3: Programming question practice
 
 ### 🗓 Day 12 – Leetcode and Scenario-based questions
 **(Date: 29-Dec-2025)** 

@@ -2,7 +2,7 @@
 
 ## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
-### 🗓 Day 1 – Git & GitHub Setup  
+### 🗓 Day 1 – Git & GitHub Setup  (Branch: core-java-practice)
 **(Date: 15-Dec-2025)**
 
 - Installed and configured Git.
@@ -27,7 +27,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 2 – Git Practice & Basic Java Programs  
+### 🗓 Day 2 – Git Practice & Basic Java Programs  (Branch: core-java-practice)
 **(Date: 16-Dec-2025)**
 
 - Practiced Git workflow to understand commits and version control.
@@ -39,7 +39,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 3 – Programming Elements in Java  
+### 🗓 Day 3 – Programming Elements in Java  (Branch: core-java-practice)
 **(Date: 17-Dec-2025)**
 
 - Studied core programming elements:
@@ -57,7 +57,7 @@ BridgeLabz-Training/
 
 --- 
 
-### 🗓 Day 4 – Control Flow & Logical Constructs  
+### 🗓 Day 4 – Control Flow & Logical Constructs  (Branch: core-java-practice)
 **(Date: 18-Dec-2025)**
 
 - Studied logical constructs in Java:
@@ -79,7 +79,7 @@ BridgeLabz-Training/
 
 --- 
 
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
+### 🗓 Day 5 – Arrays & Basic Problem Solving  (Branch: core-java-practice)
 **(Date: 19-Dec-2025)**
 
 - Studied arrays in Java:
@@ -97,7 +97,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 6 – Java Methods
+### 🗓 Day 6 – Java Methods  (Branch: core-java-practice)
  **(Date: 20-Dec-2025)**
   
  - Studied Java methods:
@@ -110,5 +110,140 @@ BridgeLabz-Training/
   
 🔗 *Code Link:*  
 👉 [Day 6 – Methods](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+
+---
+
+## 📅 Week 2: Strings & Extra Programming Fundamentals  (Branch: core-java-practice)
+
+### 🗓 Day 7 – Java Strings
+**(Date: 22-Dec-2025)**
+
+- Studied String concepts:
+ - String creation
+ - String methods
+ - Character processing
+- Implemented programs for string manipulation.
+- Committed and pushed solutions to the repository.
+
+🔗 *Code Link:*  
+👉 [Day 7 – Strings](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+
+---
+
+### 🗓 Day 8 – Extra Built-in Functions & String Practice  (Branch: core-java-practice)
+**(Date: 23-Dec-2025)**
+  
+- Practiced Java built-in classes such as Math and Random.
+- Worked with date and time handling using Java 8+ date-time APIs:
+  - LocalDate
+  - LocalTime
+  - LocalDateTime
+  - ZonedDateTime
+  - DateTimeFormatter
+- Practiced String concepts including:
+  - Creating strings and taking string input
+  - Escape sequences (\)
+  - String arrays
+  - Strings as method parameters
+  - Built-in String class methods
+  - ASCII character codes
+- Studied Java exception handling concepts:
+  - Java exception hierarchy
+  - Checked and unchecked exceptions
+  - java.lang.RuntimeException
+- Implemented utility programs such as a temperature converter.
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+  
+🔗 *Code Link:*  
+👉 [Day 8 – Extras](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+
+---
+
+### 🗓 Day 9 – Leetcode and Scenario-based questions  (Branch: core-java-practice) 
+**(Date: 24-Dec-2025)**
+  
+- Leetcode problems(Array problems):
+  - Two Sum
+  - Single Number
+  - Remove element
+  - Best time to buy and sell stock
+  - Majority element
+- Scenario-based problems:
+  - The Coffee Counter Chronicles
+  - Maya's BMI Fitness Tracker
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+  
+🔗 *Code Link:*  
+👉 [Day 9 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+👉 [Day 9 – Scenario-based](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---
+
+### 🗓 Day 10 – Leetcode and Scenario-based questions  (Branch: core-java-practice)
+**(Date: 26-Dec-2025)**
+  
+- Leetcode problems(Array problems):
+  - Count Primes
+  - Find peak element
+  - Missing number
+  - Move zeroes
+- Scenario-based problems:
+  - Election Booth Manager
+  - Metro Smart Card Fare Deduction
+  - Raj's Result Generator
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+  
+🔗 *Code Link:*  
+👉 [Day 10 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+👉 [Day 10 – Scenario-based](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---
+
+### 🗓 Day 10 – Eclipse environment setup and Basic OOPs concept  (Branch: java-oops-practice)
+**(Date: 26-Dec-2025)**
+
+- Installed and configured Eclipse.
+- Set up and reviewed the `java-oops-practice` branch structure.
+```
+BridgeLabz-Training/
+│── java-oops-practice/
+│   │── gcr-codebase/
+│   │   │── JavaOopsConcepts/
+│   │   │   │── src/
+│   │   │   │   │── com/
+│   │   │   │   │   │── classandobjects/
+│   │
+│   │── leet-code-codebase/
+│   │── scenario-based-codebase/
+│   │── .gitignore
+│── README.md
+```
+- Introduced Object-Oriented Programming (OOP).
+- Understood the difference between Procedural Programming and OOP.
+- Learned why OOP is used in modern applications.
+- Prepared to begin Classes and Objects.
+- Committed and pushed all work.
+
+🔗 *Code Link:*  
+👉 [Day 10 – Class and Objects](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobjects)
+
+---
+
+### 🗓 Day 11 – Constructor and it's programming questions  (Branch: java-oops-practice)
+**(Date: 27-Dec-2025)**
+
+- Introduction to Constructor
+- Types of constructor(Default, parameterized and copy)
+- Access modifiers(public, protected, default, private)
+- Instance Vs class variables and methods
+- Learned best practices to use access modifiers
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 11 – Constructor](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/levelone)
 
 ---

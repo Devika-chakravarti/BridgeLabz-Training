@@ -201,3 +201,19 @@ BridgeLabz-Training/
 👉 [Day 10 – Scenario-based](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
+
+### 🗓 Day 11 – Leetcode questions  
+**(Date: 28-Dec-2025)**
+
+- Leetcode problems(Array):
+  - Remove duplicates
+  - Plus one
+  - Duplicate
+  - Duplicate number
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 11 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+
+---

@@ -47,3 +47,20 @@ BridgeLabz-Training/
 👉 [Day 11 – Constructor](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/levelone)
 
 ---
+
+## 📅 Week 3: OOPs(continue) and few other concepts in depth 
+
+### 🗓 Day 12 – Eclipse environment setup and Basic OOPs concept
+**(Date: 29-Dec-2025)**
+
+- Few important Java keywords with their use case:
+  - this
+  - static
+  - final
+- instanceof Operator
+- Practiced programs using these keywords
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 12 – Java keywords](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/javakeywords)

@@ -50,7 +50,7 @@ BridgeLabz-Training/
 
 ## 📅 Week 3: OOPs(continue) and few other concepts in depth 
 
-### 🗓 Day 12 – Eclipse environment setup and Basic OOPs concept
+### 🗓 Day 12 – Important Java keywords
 **(Date: 29-Dec-2025)**
 
 - Few important Java keywords with their use case:

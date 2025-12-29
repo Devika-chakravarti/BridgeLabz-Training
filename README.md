@@ -217,3 +217,22 @@ BridgeLabz-Training/
 👉 [Day 11 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
 
 ---
+
+### 🗓 Day 12 – Leetcode and Scenario-based questions
+**(Date: 29-Dec-2025)** 
+- Leetcode problems(String problems):
+  - Harshad Number
+  - Reverse string
+  - Valid anagram
+- Scenario-based problems:
+  - Parking Lot Gate System
+  - The Number Guessing Game
+  - Shopkeeper’s Discount Dashboard
+  - School Bus Attendance System
+  - Phone Recharge Simulator
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:* 
+👉 [Day 12 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Strings)
+👉 [Day 12 – Scenario-based](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/scenario-based)

@@ -88,3 +88,21 @@ BridgeLabz-Training/
 
 ---
 
+### 🗓 Day 14 – Inheritance
+**(Date: 31-Dec-2025)**
+- Inheritance
+  - Single Level Inheritance
+  - Multilevel Inheritance
+  - Hierarchical Inheritance
+- Key Features of Inheritance
+- Method Overriding
+- Constructor Inheritance in Java
+- Polymorphism and Inheritance
+- Access Modifiers and Inheritance
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 14 – Object modeling](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+
+---

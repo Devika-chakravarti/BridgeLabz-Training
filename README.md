@@ -16,6 +16,6 @@
 - Committed and pushed all changes successfully.
 
 🔗 *Code Link:*  
-👉 [Day 16 – ](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAProgramming/src/com/linkedlist)
+👉 [Day 16 – LinkedList](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAProgramming/src/com/linkedlist)
 
 ---

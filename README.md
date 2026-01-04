@@ -64,3 +64,27 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 👉 [Day 12 – Java keywords](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/javakeywords)
+
+---
+
+### 🗓 Day 13 – Object Oriented Design principles
+**(Date: 30-Dec-2025)**
+
+- Object Oriented Design Principles:
+  - Class Diagram
+  - Object Diagrams
+  - Sequence Diagrams
+- Class vs Objects
+- Object relationships and communications:
+  - Association
+  - Aggregation
+  - Composition
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 13 – Object modeling](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodeling)
+👉 [Day 13 – Class, object and sequence diagrams](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classobjectandsequencediagram)
+
+---
+

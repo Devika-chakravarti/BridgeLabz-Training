@@ -255,3 +255,19 @@ BridgeLabz-Training/
 👉 [Day 13 – Scenario-based](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
+
+### 🗓 Day 14 – Scenario-based questions
+**(Date: 31-Dec-2025)** 
+- Scenario-based problems:
+  - Digital Watch Simulation
+  - Online Quiz Application
+  - Currency Exchange Kiosk
+  - Bus Route Distance Tracker
+  - Festival Lucky Draw
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*
+👉 [Day 14 – Scenario-based](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---

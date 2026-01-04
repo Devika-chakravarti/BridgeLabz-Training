@@ -90,6 +90,7 @@ BridgeLabz-Training/
 
 ### 🗓 Day 14 – Inheritance
 **(Date: 31-Dec-2025)**
+
 - Inheritance
   - Single Level Inheritance
   - Multilevel Inheritance
@@ -106,3 +107,22 @@ BridgeLabz-Training/
 👉 [Day 14 – Object modeling](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
 
 ---
+
+### 🗓 Day 15 – Encapsulation, Interface, Abstract Classes, and Polymorphism 
+**(Date: 01-Jan-2025)**
+
+- Encapsulation, it's key benefits and example
+- Polymorphism, it's key benefits and it's types
+- Polymorphism with Interfaces and Abstract classes
+- Interface and it's characteristics
+- Abstract Classes and it's characteristics
+- Abstract classes vs Interfaces
+- Interfaces vs Class
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 15 – Encapsulation, Interface, Abstract Classes, and Polymorphism](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulationpolymorphismandabstraction)
+
+---
+

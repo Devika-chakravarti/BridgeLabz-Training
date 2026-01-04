@@ -271,3 +271,16 @@ BridgeLabz-Training/
 👉 [Day 14 – Scenario-based](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
+
+### 🗓 Day 15 – Leetcode questions
+**(Date: 01-Jan-2025)** 
+- Leetcode problems(String problems):
+  - Merge sorted array
+  - Search insert position
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:* 
+👉 [Day 15 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Strings)
+
+---

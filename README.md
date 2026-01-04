@@ -7,6 +7,21 @@
 
 - Introduction of Data Structure 
 - Key Features of Data Structures in Java
+- Set up and reviewed the `dsa-practice` branch structure.
+```
+BridgeLabz-Training/
+│── dsa-practice/
+│   │── gcr-codebase/
+│   │   │── DSAProgramming/
+│   │   │   │── src/
+│   │   │   │   │── com/
+│   │   │   │   │   │── linkedlist/
+│   │
+│   │── leet-code-codebase/
+│   │── scenario-based-codebase/
+│   │── .gitignore
+│── README.md
+```
 - Types of Data Structures in Java
 - LinkedList:
   - Single Linked List

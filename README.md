@@ -237,3 +237,21 @@ BridgeLabz-Training/
 🔗 *Code Link:* 
 👉 [Day 12 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Strings)
 👉 [Day 12 – Scenario-based](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---
+
+### 🗓 Day 13 – Scenario-based questions
+**(Date: 30-Dec-2025)** 
+- Scenario-based problems:
+  - Temperature Logger
+  - Train Reservation Queue
+  - Sandeep’s Fitness Challenge Tracker
+  - Movie Ticket Booking App
+  - Rohan’s Library Reminder App
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*
+👉 [Day 13 – Scenario-based](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---

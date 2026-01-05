@@ -64,3 +64,21 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 👉 [Day 17 – Stack and Queue](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAProgramming/src/com/stacksandqueues)
 👉 [Day 17 – HashMap and Hashing function](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAProgramming/src/com/hashmapsandhashfunctions)
+
+---
+
+## 📅 Week 4: Data structures and algorithms(More concepts)
+
+### 🗓 Day 18 – Sorting algorithms
+**(Date: 05-Jan-2025)**
+
+- Bubble sort
+- Insertion sort
+- Merge sort
+- Quick sort
+- Selection sort
+- Heap sort
+- Counting sort
+
+🔗 *Code Link:*  
+👉 [Day 18 – Sorting algorithms](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAProgramming/src/com/sortingalgorithm)

@@ -82,3 +82,18 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 👉 [Day 18 – Sorting algorithms](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAProgramming/src/com/sortingalgorithm)
+
+---
+
+### 🗓 Day 19 – Searching Algorithms and other concepts
+**(Date: 06-Jan-2025)**
+
+- StringBuilder
+- StringBuffer
+- FileReader
+- InputStreamReader
+- Linear Search 
+- Binary Search 
+
+🔗 *Code Link:*  
+👉 [Day 19 – Linear search, Binary search and others](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAProgramming/src/com/searchingalgorithmandother)

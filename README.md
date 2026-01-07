@@ -507,3 +507,35 @@ BridgeLabz-Training/
 👉 [Day 17 – HashMap and Hashing function](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAProgramming/src/com/hashmapsandhashfunctions)
 
 ---
+
+## 📅 Week 4: OOPs scenario-based problems 
+
+### 🗓 Day 18 – Scenario-based questions  (Branch: java-oops-practice)
+**(Date: 05-Jan-2025)**
+
+- Scenario-based questions:
+  - CampusConnect – College Information System
+  - SwiftCart – The Grocery Shopping App
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 18 – Scenario-based questions](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedProblems/src/com)
+
+---
+
+### 🗓 Day 18 – Sorting algorithms  (Branch: dsa-practice)
+**(Date: 05-Jan-2025)**
+
+- Bubble sort
+- Insertion sort
+- Merge sort
+- Quick sort
+- Selection sort
+- Heap sort
+- Counting sort
+
+🔗 *Code Link:*  
+👉 [Day 18 – Sorting algorithms](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAProgramming/src/com/sortingalgorithm)
+
+---

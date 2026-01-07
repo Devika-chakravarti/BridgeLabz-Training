@@ -113,9 +113,9 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Week 2: Strings & Extra Programming Fundamentals  (Branch: core-java-practice)
+## 📅 Week 2: Strings & Extra Programming Fundamentals  
 
-### 🗓 Day 7 – Java Strings
+### 🗓 Day 7 – Java Strings  (Branch: core-java-practice)
 **(Date: 22-Dec-2025)**
 
 - Studied String concepts:
@@ -264,7 +264,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Week 3: Programming question practice
+## 📅 Week 3: OOPs (in java-oops-practice) and Programming question practice (in core-java-practice)
 
 ### 🗓 Day 12 – Leetcode and Scenario-based questions (Branch: core-java-practice)
 **(Date: 29-Dec-2025)** 
@@ -286,8 +286,6 @@ BridgeLabz-Training/
 👉 [Day 12 – Scenario-based](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
-
-## 📅 Week 3: OOPs(continue) and few other concepts in depth 
 
 ### 🗓 Day 12 – Important Java keywords (Branch: java-oops-practice)
 **(Date: 29-Dec-2025)**
@@ -508,7 +506,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Week 4: OOPs scenario-based problems 
+## 📅 Week 4: DSA (in dsa-practice) and OOPs scenario-based problems (in java-oops-practice) 
 
 ### 🗓 Day 18 – Scenario-based questions  (Branch: java-oops-practice)
 **(Date: 05-Jan-2025)**

@@ -584,7 +584,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 20 –  Algorithm's Runtime Analysis & Big-O Notation
+### 🗓 Day 20 –  Algorithm's Runtime Analysis & Big-O Notation  (Branch: dsa-practice)
 **(Date: 07-Jan-2025)**
 
 - What is Runtime Analysis?
@@ -598,6 +598,20 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 👉 [Day 20 – Complexity analysis](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAProgramming/src/com/complexityanalysis)
+
+---
+
+### 🗓 Day 21 – Scenario-based questions 
+**(Date: 08-Jan-2025)**
+
+- Scenario-based questions:
+  - MediStore – Pharmacy Inventory & Sales System
+  - TourMate – Travel Itinerary Planner
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 21 – Scenario-based questions](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedProblems/src/com)
 
 ---
 

@@ -583,3 +583,21 @@ BridgeLabz-Training/
 👉 [Day 20 – Scenario-based questions](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedProblems/src/com)
 
 ---
+
+### 🗓 Day 20 –  Algorithm's Runtime Analysis & Big-O Notation
+**(Date: 07-Jan-2025)**
+
+- What is Runtime Analysis?
+- Understanding Big-O Notation
+- Time Complexity Analysis
+- Space Complexity Analysis
+- Best, Worst, and Average Case Complexities
+- Practical Guidelines for Optimizing Java Code
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 20 – Complexity analysis](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAProgramming/src/com/complexityanalysis)
+
+---
+

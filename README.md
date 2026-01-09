@@ -7,14 +7,14 @@ This repository documents my learning journey at BridgeLabz, spanning from Decem
 ---
 ## Repository Branches
 
-🔷 **[core-java-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice)**  
-**Week 1:** Fundamentals of Java Programming  
+### 🔹 [core-java-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice)  
+*Week 1* : Fundamentals of Java Programming  
 
-🔷 **[java-oops-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice)**  
-**Week 2:** Object-Oriented Programming  
+### 🔹 [java-oops-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice) 
+*Week 2* : Object-Oriented Programming  
 
-🔷 **[dsa-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice)**  
-**Week 3:** Data Structures & Algorithms
+### 🔹 [dsa-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice) 
+*Week 3* : Data Structures & Algorithms
 
 ---
 ## 📅 Week 1: Git, GitHub & Java Programming Fundamentals

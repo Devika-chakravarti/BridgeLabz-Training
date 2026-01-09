@@ -1,7 +1,9 @@
 # BridgeLabz Training Journey
 > A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
 ## Training overview
-> This repository documents my learning journey at BridgeLabz, spanning from December 15, 2025 to present. The training is organized into structured branches covering different aspects of Java development.
+
+This repository documents my learning journey at BridgeLabz, spanning from December 15, 2025 to present. The training is organized into structured branches covering different aspects of Java development.
+
 ---
 ## Repository Branches
 

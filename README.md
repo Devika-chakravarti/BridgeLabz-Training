@@ -116,3 +116,17 @@ BridgeLabz-Training/
 👉 [Day 20 – Complexity analysis](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAProgramming/src/com/complexityanalysis)
 
 ---
+
+### 🗓 Day 23 –  Scenario-based problems
+**(Date: 10-Jan-2025)**
+
+- BookShelf – Library Organizer (HashMap + Linked List)
+- BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+- AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 23 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+
+---

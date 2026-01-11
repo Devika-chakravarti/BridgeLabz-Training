@@ -659,3 +659,16 @@ BridgeLabz-Training/
 
 ---
 
+### 🗓 Day 24 – Leetcode questions  (branch: core-java-practice)
+**(Date: 11-Jan-2025)** 
+- Leetcode problems(Array problems):
+  - Find All Numbers Disappeared in an Array
+  - Find First and Last Position of Element in Sorted Array
+  - Majority Element II
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:* 
+👉 [Day 24 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Strings)
+
+---

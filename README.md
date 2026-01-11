@@ -616,7 +616,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 21 – Scenario-based questions 
+### 🗓 Day 21 – Scenario-based questions  (Branch: java-oops-practice)
 **(Date: 08-Jan-2025)**
 
 - Scenario-based questions:
@@ -630,7 +630,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 22 – Scenario-based questions 
+### 🗓 Day 22 – Scenario-based questions  (Branch: java-oops-practice)
 **(Date: 09-Jan-2025)**
 
 - Scenario-based questions:
@@ -644,3 +644,18 @@ BridgeLabz-Training/
 👉 [Day 22 – Scenario-based questions](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedProblems/src/com)
 
 ---
+
+### 🗓 Day 23 –  Scenario-based problems  (Branch: dsa-practice)
+**(Date: 10-Jan-2025)**
+
+- BookShelf – Library Organizer (HashMap + Linked List)
+- BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+- AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 23 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+
+---
+

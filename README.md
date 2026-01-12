@@ -672,3 +672,21 @@ BridgeLabz-Training/
 👉 [Day 24 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Strings)
 
 ---
+
+## 📅 Week 5: Scenario-based problems (based on LL, DLL, CLL, Stack and Queue)
+
+### 🗓 Day 24 –  Scenario-based problems  (Branch: dsa-practice)
+**(Date: 12-Jan-2025)**
+
+- CallCenter – Customer Queue Manager (Queue + HashMap)
+- TrainCompanion – Compartment Navigation System (Doubly Linked
+List)
+- TextEditor – Undo/Redo Functionality (Stack)
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 24 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+
+---
+

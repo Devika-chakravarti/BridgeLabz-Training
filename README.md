@@ -130,3 +130,20 @@ BridgeLabz-Training/
 👉 [Day 23 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
 
 ---
+
+## 📅 Week 5: Scenario-based problems (based on LL, DLL, CLL, Stack and Queue)
+
+### 🗓 Day 24 –  Scenario-based problems
+**(Date: 12-Jan-2025)**
+
+- CallCenter – Customer Queue Manager (Queue + HashMap)
+- TrainCompanion – Compartment Navigation System (Doubly Linked
+List)
+- TextEditor – Undo/Redo Functionality (Stack)
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 24 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+
+---

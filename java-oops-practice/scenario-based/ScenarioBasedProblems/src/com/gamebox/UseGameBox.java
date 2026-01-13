@@ -45,6 +45,10 @@ public class UseGameBox {
 		System.out.println("               WELCOME TO GAMEBOX PLATFORM");
 		System.out.println("=========================================================");
 		
+		System.out.print("Enter your name: ");
+		String name = input.nextLine();
+		System.out.println();
+		
 		while (true) {
 			System.out.println("1. View Available Games");
 			System.out.println("2. Download / Purchase Game");

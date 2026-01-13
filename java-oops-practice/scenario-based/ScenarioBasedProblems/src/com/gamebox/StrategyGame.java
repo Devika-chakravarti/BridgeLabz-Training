@@ -15,7 +15,6 @@ public class StrategyGame extends Game {
 	@Override
 	public void playDemo() {
 		System.out.println("----------------------------------------------------------");
-		System.out.println("Strategy Game Demo");
 		System.out.println("Turn-based planning and decision making.");
 		System.out.println("----------------------------------------------------------");
 	}

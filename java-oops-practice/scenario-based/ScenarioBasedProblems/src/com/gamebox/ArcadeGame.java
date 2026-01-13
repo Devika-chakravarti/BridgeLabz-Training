@@ -15,7 +15,6 @@ public class ArcadeGame extends Game {
 	@Override
 	public void playDemo() {
 		System.out.println("----------------------------------------------------------");
-		System.out.println("Arcade Game Demo");
 		System.out.println("Fast-paced action gameplay running.");
 		System.out.println("----------------------------------------------------------");
 	}

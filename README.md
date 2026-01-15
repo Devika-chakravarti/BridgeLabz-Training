@@ -149,4 +149,18 @@ BridgeLabz-Training/
 
 ---
 
+### 🗓 Day 25 –  Scenario-based problems
+**(Date: 13-Jan-2025)**
 
+- Scenario-based problems: 
+  - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+  - ParcelTracker – Delivery Chain Management (Singly Linked List)
+  - ExamProctor – Online Exam Review System (Stack + HashMap +
+Functions)
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 25 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+
+---

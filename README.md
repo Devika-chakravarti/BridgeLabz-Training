@@ -659,7 +659,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 24 – Leetcode questions  (branch: core-java-practice)
+### 🗓 Day 24 – Leetcode questions  (Branch: core-java-practice)
 **(Date: 11-Jan-2025)** 
 - Leetcode problems(Array problems):
   - Find All Numbers Disappeared in an Array
@@ -673,15 +673,16 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Week 5: Scenario-based problems (based on LL, DLL, CLL, Stack and Queue)
+## 📅 Week 5: Scenario-based problems (in dsa-practice and java-oops-practice)
 
 ### 🗓 Day 24 –  Scenario-based problems  (Branch: dsa-practice)
 **(Date: 12-Jan-2025)**
 
-- CallCenter – Customer Queue Manager (Queue + HashMap)
-- TrainCompanion – Compartment Navigation System (Doubly Linked
-List)
-- TextEditor – Undo/Redo Functionality (Stack)
+- Scenario-based problems: 
+  - CallCenter – Customer Queue Manager (Queue + HashMap)
+  - TrainCompanion – Compartment Navigation System (Doubly LinkedList)
+  - TextEditor – Undo/Redo Functionality (Stack)
+  - TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
 - Organized programs into appropriate folders using Eclipse.
 - Committed and pushed all changes successfully.
 
@@ -690,3 +691,17 @@ List)
 
 ---
 
+### 🗓 Day 24 – Scenario-based questions  (Branch: core-java-practice)
+**(Date: 12-Jan-2025)**
+
+- Scenario-based questions:
+  - HomeNest – Smart Home Device Manager
+  - BudgetWise – Personal Finance Tracker
+  - GameBox – Mobile Game Distribution Platform
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 24 – Scenario-based questions](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedProblems/src/com)
+
+---

@@ -285,6 +285,8 @@ BridgeLabz-Training/
 
 ---
 
+## 📅 Week 4: Leetcode problems
+
 ### 🗓 Day 24 – Leetcode questions
 **(Date: 11-Jan-2025)** 
 - Leetcode problems(Array problems):
@@ -296,5 +298,21 @@ BridgeLabz-Training/
 
 🔗 *Code Link:* 
 👉 [Day 24 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Strings)
+
+---
+
+## 📅 Week 5: Leetcode problems
+
+### 🗓 Day 27 – Leetcode questions
+**(Date: 16-Jan-2025)** 
+- Leetcode problems(Array problems):
+  - Rotate array
+  - Container with most water
+  - Maximum subarray
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:* 
+👉 [Day 27 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Strings)
 
 ---

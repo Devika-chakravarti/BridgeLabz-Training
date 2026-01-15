@@ -691,7 +691,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 24 – Scenario-based questions  (Branch: core-java-practice)
+### 🗓 Day 24 – Scenario-based questions  (Branch: java-oops-practice)
 **(Date: 12-Jan-2025)**
 
 - Scenario-based questions:
@@ -722,7 +722,7 @@ Functions)
 
 ---
 
-### 🗓 Day 25 – Scenario-based questions 
+### 🗓 Day 25 – Scenario-based questions  (Branch: java-oops-practice)
 **(Date: 13-Jan-2025)**
 
 - Scenario-based questions:

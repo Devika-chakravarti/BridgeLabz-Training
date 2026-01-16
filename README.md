@@ -669,7 +669,7 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 *Code Link:* 
-👉 [Day 24 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Strings)
+👉 [Day 24 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
 
 ---
 
@@ -778,6 +778,6 @@ Functions)
 - Committed and pushed all changes successfully.
 
 🔗 *Code Link:* 
-👉 [Day 27 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Strings)
+👉 [Day 27 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
 
 ---

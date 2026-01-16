@@ -768,3 +768,16 @@ Functions)
 
 ---
 
+### 🗓 Day 27 – Leetcode questions  (Branch: core-java-practice)
+**(Date: 16-Jan-2025)** 
+- Leetcode problems(Array problems):
+  - Rotate array
+  - Container with most water
+  - Maximum subarray
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:* 
+👉 [Day 27 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Strings)
+
+---

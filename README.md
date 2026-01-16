@@ -313,6 +313,33 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 *Code Link:* 
-👉 [Day 27 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Strings)
+👉 [Day 27 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+
+---
+
+### 🗓 Day 27 – Leetcode questions
+**(Date: 16-Jan-2025)** 
+- Leetcode problems(Array problems):
+  - Rotate array
+  - Container with most water
+  - Maximum subarray
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:* 
+👉 [Day 27 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+
+---
+
+### 🗓 Day 28 – Leetcode questions
+**(Date: 17-Jan-2025)** 
+- Leetcode problems(Array problems):
+  - Squares of a sorted array
+  - Product of array except self
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:* 
+👉 [Day 28 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
 
 ---

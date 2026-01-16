@@ -749,6 +749,22 @@ Functions)
 - Committed and pushed all changes successfully.
 
 🔗 *Code Link:*  
-👉 [Day 26 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+👉 [Day 26 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/sorting)
 
 ---
+
+### 🗓 Day 27 –  Scenario-based problems  (Branch: dsa-practice)
+**(Date: 16-Jan-2025)**
+
+- Scenario-based problems (Based on sorting algorithms): 
+  - RoboWarehouse – Shelf Loading Robot (Insertion Sort)
+  - CinemaHouse – Movie Time Sorting (Bubble Sort)
+  - CropMonitor – Sensor Data Ordering (Quick Sort)
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 27 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/sorting)
+
+---
+

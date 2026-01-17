@@ -781,3 +781,32 @@ Functions)
 👉 [Day 27 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
 
 ---
+
+### 🗓 Day 28 –  Scenario-based problems  (Branch: dsa-practice)
+**(Date: 17-Jan-2025)**
+
+- Scenario-based problems (Based on sorting algorithms): 
+  - ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+  - FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+  - IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+  - SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 28 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/sorting)
+
+---
+
+### 🗓 Day 28 – Leetcode questions  (Branch: core-java-practice)
+**(Date: 17-Jan-2025)** 
+- Leetcode problems(Array problems):
+  - Squares of a sorted array
+  - Product of array except self
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:* 
+👉 [Day 28 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+
+---

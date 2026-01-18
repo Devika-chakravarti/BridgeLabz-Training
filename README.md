@@ -810,3 +810,17 @@ Functions)
 👉 [Day 28 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
 
 ---
+
+### 🗓 Day 29 – Leetcode questions  (Branch: core-java-practice)
+**(Date: 18-Jan-2025)** 
+- Leetcode problems(Array & String problems):
+  - Largest number
+  - Length of the last word
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:* 
+👉 [Day 29 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+👉 [Day 29 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Strings)
+
+---

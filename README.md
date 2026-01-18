@@ -262,3 +262,17 @@ BridgeLabz-Training/
 👉 [Day 25 – Scenario-based questions](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedProblems/src/com)
 
 ---
+
+### 🗓 Day 28 – Scenario-based questions 
+**(Date: 17-Jan-2025)**
+
+- Scenario-based questions:
+  - GeoMeasure Solutions
+  - Bag-n-Ball Organizer
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 28 – Scenario-based questions](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedProblems/src/com)
+
+---

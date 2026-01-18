@@ -811,6 +811,20 @@ Functions)
 
 ---
 
+### 🗓 Day 28 – Scenario-based questions  (Branch: java-oops-practice)
+**(Date: 17-Jan-2025)**
+
+- Scenario-based questions:
+  - GeoMeasure Solutions
+  - Bag-n-Ball Organizer
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 28 – Scenario-based questions](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedProblems/src/com)
+
+---
+
 ### 🗓 Day 29 – Leetcode questions  (Branch: core-java-practice)
 **(Date: 18-Jan-2025)** 
 - Leetcode problems(Array & String problems):

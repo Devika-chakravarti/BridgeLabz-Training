@@ -212,3 +212,20 @@ Functions)
 👉 [Day 28 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/sorting)
 
 ---
+
+## 📅 Week 6: Scenario-based problems (based on Sorting)
+
+### 🗓 Day 29 –  Scenario-based problems
+**(Date: 19-Jan-2025)**
+
+- Scenario-based problems (Based on sorting algorithms): 
+  - EduResults – Rank Sheet Generator (Merge Sort)
+  - FlashDealz – Product Sorting by Discount (Quick Sort)
+  - FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 29 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/sorting)
+
+---

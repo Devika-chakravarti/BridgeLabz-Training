@@ -838,3 +838,20 @@ Functions)
 👉 [Day 29 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Strings)
 
 ---
+
+## 📅 Week 6: Scenario-based problems (in dsa-practice and in java-oops-practice)
+
+### 🗓 Day 29 –  Scenario-based problems  (Branch: dsa-practice)
+**(Date: 19-Jan-2025)**
+
+- Scenario-based problems (Based on sorting algorithms): 
+  - EduResults – Rank Sheet Generator (Merge Sort)
+  - FlashDealz – Product Sorting by Discount (Quick Sort)
+  - FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 29 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/sorting)
+
+---

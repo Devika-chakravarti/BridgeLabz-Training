@@ -645,6 +645,36 @@ BridgeLabz-Training/
 
 ---
 
+### 🗓 Day 22 – Generics  (Branch: java-collections-practice)
+**(Date: 09-Jan-2025)**
+
+- Set up and revised the java-collections-practice branch structure
+```
+BridgeLabz-Training/
+│── java-collections-practice/
+│   │── gcr-codebase/
+│   │   │── JavaCollectionFrameworks/
+│   │   │   │── src/
+│   │   │   │   │── com/
+│   │   │   │   │   │── generics/
+│   │
+│   │── leet-code-codebase/
+│   │── scenario-based-codebase/
+│   │── .gitignore
+│── README.md
+```
+- Learned Java Generics for type-safe and reusable collection handling.
+- Understood Type Parameters (`T`,`E`,`K`,`V`) and their role in APIs.
+- Implemented Generic Classes and Generic Methods.
+- Used Bounded Types (`extends`, `super`) to restrict and control types.
+- Applied Wildcards (`?`, `? extends`, `? super`) for flexible collections.
+- Followed Generics best practices (no raw types, safe bounds, readable design)
+
+🔗 *Code Link:*  
+👉 [Day 22 – Generics](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFrameworks/src/com/generics)
+
+---
+
 ### 🗓 Day 23 –  Scenario-based problems  (Branch: dsa-practice)
 **(Date: 10-Jan-2025)**
 
@@ -779,6 +809,45 @@ Functions)
 
 🔗 *Code Link:* 
 👉 [Day 27 – Leetcode](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+
+---
+
+### 🗓 Day 27 – Collection frameworks (List, Set, Queue, Map)  (Branch: java-collections-practice)
+**(Date: 16-Jan-2025)**
+
+- Studied Java Collections Framework architecture and hierarchy.
+- Understood the role of `Collection` and `Map` interfaces.
+- Learned List Interface and its implementations:
+  - `ArrayList`
+  - `LinkedList`
+  - `Vector`
+- Performed common List operations:
+  - Add, remove, update, search
+  - Iteration using for-each, Iterator, and ListIterator
+- Learned Set Interface and its implementations:
+  - `HashSet`
+  - `LinkedHashSet`
+  - `TreeSet`
+- Understood uniqueness, ordering, and sorting behavior in Sets.
+- Learned Map Interface and its implementations:
+  - `HashMap`
+  - `LinkedHashMap`
+  - `TreeMap`
+- Performed key-value operations:
+  - Insertion, deletion, retrieval
+  - Iteration using entrySet(), keySet(), and values()
+- Learned Queue Interface and its implementations:
+  - `PriorityQueue`
+  - `ArrayDeque`
+- Studied queue operations:
+  - Enqueue, dequeue, peek & poll
+- Understood FIFO behavior and priority-based processing.
+- Understood internal working, use cases, and performance considerations.
+- Practiced real-time examples for List, Set, Queue and Map.
+- Committed and pushed all work. 
+
+🔗 *Code Link:*  
+👉 [Day 27 – Collection frameworks](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFrameworks/src/com/collections)
 
 ---
 

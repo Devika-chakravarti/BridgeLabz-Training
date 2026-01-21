@@ -10,8 +10,4 @@ public class FoodStall {
 		this.stallName = stallName;
 		this.customers = customers;
 	}
-
-	public void display() {
-		System.out.println("Stall ID: " + stallId + "| Stall Name: " + stallName + " | Customers: " + customers);
-	}
 }

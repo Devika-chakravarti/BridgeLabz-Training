@@ -16,6 +16,9 @@ This repository documents my learning journey at BridgeLabz, spanning from Decem
 ### 🔹 [dsa-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice) 
 *Week 3* : Data Structures & Algorithms
 
+### 🔹 [java-collections-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-collections-practice) 
+*Week 4* : Collection frameworks
+
 ---
 ## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 

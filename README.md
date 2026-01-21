@@ -955,3 +955,17 @@ Functions)
 👉 [Day 30 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/sorting)
 
 ---
+
+### 🗓 Day 31 –  Scenario-based problems  (Branch: dsa-practice)
+**(Date: 21-Jan-2025)**
+
+- Scenario-based problems (Based on sorting algorithms): 
+  - TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
+  - MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 31 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/sorting)
+
+---

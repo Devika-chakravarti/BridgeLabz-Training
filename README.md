@@ -941,6 +941,24 @@ Functions)
 
 ---
 
+### 🗓 Day 29 – Java Streams  (Branch: java-collections-practice)
+**(Date: 19-Jan-2025)**
+
+- Java I/O Streams
+- Types of Streams
+  - File Streams
+  - Object Streams
+  - ByteArray Streams
+  - Buffered Streams
+  - Reader and Writer
+- Best Practices (to follow for Java streams)
+- Committed and pushed all work. 
+
+🔗 *Code Link:*  
+👉 [Day 29 – Java streams](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFrameworks/src/com/iostreams)
+
+---
+
 ### 🗓 Day 30 –  Scenario-based problems  (Branch: dsa-practice)
 **(Date: 20-Jan-2025)**
 
@@ -953,6 +971,29 @@ Functions)
 
 🔗 *Code Link:*  
 👉 [Day 30 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/sorting)
+
+---
+
+### 🗓 Day 30 – Exceptions
+**(Date: 20-Jan-2025)**
+
+- Exceptions 
+- Types of Exceptions
+  - Checked Exceptions
+  - Unchecked Exceptions
+  - Custom Exceptions
+- Handling Exceptions 
+  - try-catch blocks
+  - try-catch-finally blocks
+  - try-with-resources statement
+  - throws clause
+  - throw statement
+- Creating Custom Exceptions
+- Extending Exception Class
+- Committed and pushed all work. 
+
+🔗 *Code Link:*  
+👉 [Day 30 – Exceptions](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFrameworks/src/com/exceptionalhandling)
 
 ---
 

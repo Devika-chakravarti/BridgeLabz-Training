@@ -71,3 +71,22 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 👉 [Day 27 – Collection frameworks](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFrameworks/src/com/collections)
 
+---
+
+## 📅 Week 6: Java streams
+
+### 🗓 Day 29 – Java Streams
+**(Date: 19-Jan-2025)**
+
+- Java I/O Streams
+- Types of Streams
+  - File Streams
+  - Object Streams
+  - ByteArray Streams
+  - Buffered Streams
+  - Reader and Writer
+- Best Practices (to follow for Java streams)
+- Committed and pushed all work. 
+
+🔗 *Code Link:*  
+👉 [Day 29 – Java streams](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFrameworks/src/com/iostreams)

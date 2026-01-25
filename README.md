@@ -1010,3 +1010,30 @@ Functions)
 👉 [Day 31 – Scenario-based problems](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/sorting)
 
 ---
+
+### 🗓 Day 31 – Regex and JUnit testing
+**(Date: 21-Jan-2025)**
+
+- Regex 
+- MetaCharacter
+- Quantifier
+- Common Patterns:
+  - Email Validation
+  - Password Strength
+  - Phone Number Format 
+- Java Regex API 
+  - Pattern
+  - Matcher
+- Methods:
+  - find()
+  - matches()
+  - replaceAll()
+- Introduction to JUnit Framework
+- JUnit Annotations
+- Writing Test Cases
+- Structure of a Test Class
+- Assertions
+- Committed and pushed all work. 
+
+🔗 *Code Link:*  
+👉 [Day 31 – Regex & JUnit testing](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFrameworks/src/com/regex)

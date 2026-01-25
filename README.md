@@ -974,7 +974,7 @@ Functions)
 
 ---
 
-### 🗓 Day 30 – Exceptions
+### 🗓 Day 30 – Exceptions  (Branch: java-collections-practice)
 **(Date: 20-Jan-2025)**
 
 - Exceptions 
@@ -1011,7 +1011,7 @@ Functions)
 
 ---
 
-### 🗓 Day 31 – Regex and JUnit testing
+### 🗓 Day 31 – Regex and JUnit testing  (Branch: java-collections-practice)
 **(Date: 21-Jan-2025)**
 
 - Regex 

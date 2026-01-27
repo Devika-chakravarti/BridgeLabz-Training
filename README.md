@@ -263,3 +263,18 @@ Functions)
 👉 [Day 31 – Scenario-based problems(BST)](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/tree/binarysearchtree)
 
 ---
+
+### 🗓 Day 32 –  Scenario-based problems
+**(Date: 22-Jan-2025)**
+
+- Scenario-based problems (Based on AVL tree):
+  - Gaming App - Real-Time Leaderboard
+  - Online Ticket Booking by Time
+  - Hospital Queue Management
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 32 – Scenario-based problems(AVL tree)](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/tree/avltree)
+
+---

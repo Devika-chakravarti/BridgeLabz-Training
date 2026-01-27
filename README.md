@@ -145,3 +145,22 @@ BridgeLabz-Training/
 
 ---
 
+### 🗓 Day 32 – Annotations and Reflection
+**(Date: 22-Jan-2025)**
+
+- Introduction to Annotations
+  - Common Built-in Annotations
+  - Creating Custom Annotations
+  - Advanced Custom Annotations
+  - Real-World Use Cases
+  - Annotation Processing Tools
+- Reflection
+  - Understanding of Reflection
+  - Using Reflection in Java
+- Annotations and Reflection
+- Committed and pushed all work. 
+
+🔗 *Code Link:*  
+👉 [Day 32 – Annotations and Reflection](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFrameworks/src/com/annotation)
+
+---

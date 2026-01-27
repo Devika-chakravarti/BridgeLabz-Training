@@ -911,7 +911,7 @@ Functions)
 
 ---
 
-## 📅 Week 6: Scenario-based problems (in dsa-practice and in java-oops-practice)
+## 📅 Week 6: Scenario-based problems (in dsa-practice, java-oops-practice and java-collections-practice)
 
 ### 🗓 Day 29 –  Scenario-based problems  (Branch: dsa-practice)
 **(Date: 19-Jan-2025)**
@@ -1042,5 +1042,40 @@ Functions)
 
 🔗 *Code Link:*  
 👉 [Day 31 – Regex & JUnit testing](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFrameworks/src/com/regex)
+
+---
+
+### 🗓 Day 32 –  Scenario-based problems  (Branch: dsa-practice)
+**(Date: 22-Jan-2025)**
+
+- Scenario-based problems (Based on AVL tree):
+  - Gaming App - Real-Time Leaderboard
+  - Online Ticket Booking by Time
+  - Hospital Queue Management
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 32 – Scenario-based problems(AVL tree)](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/tree/avltree)
+
+---
+
+### 🗓 Day 32 – Annotations and Reflection  (Branch: java-collections-practice)
+**(Date: 22-Jan-2025)**
+
+- Introduction to Annotations
+  - Common Built-in Annotations
+  - Creating Custom Annotations
+  - Advanced Custom Annotations
+  - Real-World Use Cases
+  - Annotation Processing Tools
+- Reflection
+  - Understanding of Reflection
+  - Using Reflection in Java
+- Annotations and Reflection
+- Committed and pushed all work. 
+
+🔗 *Code Link:*  
+👉 [Day 32 – Annotations and Reflection](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFrameworks/src/com/annotation)
 
 ---

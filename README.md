@@ -1079,3 +1079,32 @@ Functions)
 👉 [Day 32 – Annotations and Reflection](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFrameworks/src/com/annotation)
 
 ---
+
+### 🗓 Day 33 – CSV Data handling  (Branch: java-iostreams-practice) 
+**(Date: 23-Jan-2025)**
+
+- Set up and revised the java-iostreams-practice branch structure
+```
+BridgeLabz-Training/
+│── java-iostreams-practice/
+│   │── gcr-codebase/
+│   │   │── JavaIostreamsConcept//
+│   │   │   │── src/
+│   │   │   │   │── com/
+│   │   │   │   │   │── csvdatahandling/
+│   │
+│   │── scenario-based-codebase/
+│   │── .gitignore
+│── README.md
+```
+- Introduction to CSV
+- Reading CSV Files
+- Writing CSV Files
+- Parsing CSV Data
+- Data Validation
+- Committed and pushed all work. 
+
+🔗 *Code Link:*  
+👉 [Day 33 – CSV Data handling](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIostreamsConcept/src/com/csvdatahandling)
+
+---

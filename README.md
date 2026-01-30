@@ -19,6 +19,9 @@ This repository documents my learning journey at BridgeLabz, spanning from Decem
 ### 🔹 [java-collections-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-collections-practice) 
 *Week 4* : Collection frameworks
 
+### 🔹 [java-iostreamspractice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-iostreams-practice)
+*Week 5* : Java I/O streams
+
 ---
 ## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 

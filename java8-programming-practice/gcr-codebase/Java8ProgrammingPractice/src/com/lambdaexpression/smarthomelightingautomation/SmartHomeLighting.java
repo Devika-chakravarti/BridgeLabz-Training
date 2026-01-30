@@ -13,11 +13,11 @@ public class SmartHomeLighting {
 	}
 
 	public static void main(String args[]) {
-		// defining light behaviours 
+		// defining light behaviours
 		LightPattern motionTrigger = () -> System.out.println("Lights ON at full brightness");
 		LightPattern timeOfDayTrigger = () -> System.out.println("Lights set to warm dim mode at evening time");
 		LightPattern voiceCommandTrigger = () -> System.out.println("Lights turned OFF");
-	
+
 		runLightPattern(motionTrigger);
 		runLightPattern(timeOfDayTrigger);
 		runLightPattern(voiceCommandTrigger);

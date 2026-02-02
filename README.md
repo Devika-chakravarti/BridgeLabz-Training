@@ -30,3 +30,19 @@ BridgeLabz-Training/
 👉 [Day 33 – CSV Data handling](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIostreamsConcept/src/com/csvdatahandling)
 
 ---
+
+### 🗓 Day 34 – JSON Data handling  
+**(Date: 24-Jan-2025)**
+
+- Introduction to JSON:
+  - Reading JSON Data
+  - Writing JSON Data
+  - Parsing JSON Data
+  - JSON Schema Validation
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully. 
+
+🔗 *Code Link:*  
+👉 [Day 34 – JSON Data handling](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIostreamsMaven/src/main/java/com/jsonhandling)
+
+---

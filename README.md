@@ -1,5 +1,5 @@
 # BridgeLabz Training Journey
-> A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
+> A comprehensive Java programming training repository covering Core Java fundamentals, Object-Oriented Programming concepts, Data structure and algorithms, Collection frameworks, Java I/0 streams, Java 8 features.
 ## Training overview
 
 This repository documents my learning journey at BridgeLabz, spanning from December 15, 2025 to present. The training is organized into structured branches covering different aspects of Java development.
@@ -19,8 +19,11 @@ This repository documents my learning journey at BridgeLabz, spanning from Decem
 ### 🔹 [java-collections-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-collections-practice) 
 *Week 4* : Collection frameworks
 
-### 🔹 [java-iostreamspractice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-iostreams-practice)
+### 🔹 [java-iostreams-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-iostreams-practice)
 *Week 5* : Java I/O streams
+
+### 🔹 [java8-programming-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java8-programming-practice)
+*Week 6* : Java 8 features
 
 ---
 ## 📅 Week 1: Git, GitHub & Java Programming Fundamentals

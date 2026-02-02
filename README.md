@@ -32,3 +32,19 @@ BridgeLabz-Training/
 👉 [Day 37 – Method references](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/methodreferences)
 
 ---
+
+### 🗓 Day 37 – Interfaces 
+**(Date: 27-Jan-2025)**
+
+- Introduction to Interfaces (in java 8 version):
+  - Defining and Implementing Interfaces (Best Practices)
+  - Functional Interfaces
+  - Default and Static Methods in Interfaces
+  - Marker Interfaces
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully. 
+
+🔗 *Code Link:*  
+👉 [Day 37 – Interfaces](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/interfaces)
+
+---

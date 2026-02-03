@@ -1240,3 +1240,21 @@ BridgeLabz-Training/
 👉 [Day 38 – Stream API](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/streamapi)
 
 ---
+
+### 🗓 Day 38 – Collectors  (Branch: java8-programming-practice)
+**(Date: 28-Jan-2025)**
+
+- Introduction to Collectors:
+  - It's roles and capabilities
+  - toList(), toSet(), toMap()
+  - joining()
+  - groupingBy()
+  - partitioningBy()
+  - summarizingInt()
+- Organized programs into appropriate folders using Eclipse.
+- Committed and pushed all changes successfully. 
+
+🔗 *Code Link:*  
+👉 [Day 38 – Collectors](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/collectors)
+
+---

@@ -3,7 +3,7 @@
 ## 📅 Week 3: Data structures and algorithms 
 
 ### 🗓 Day 16 – Introduction to DSA and Linkedlist 
-**(Date: 02-Jan-2025)**
+**(Date: 02-Jan-2026)**
 
 - Introduction of Data Structure 
 - Key Features of Data Structures in Java
@@ -36,7 +36,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 17 – Introduction to Stack, Queue, HashMap and Hashing function 
-**(Date: 03-Jan-2025)**
+**(Date: 03-Jan-2026)**
 
 - Introduction to Stack:
   - Key characteristics
@@ -70,7 +70,7 @@ BridgeLabz-Training/
 ## 📅 Week 4: Data structures and algorithms(More concepts)
 
 ### 🗓 Day 18 – Sorting algorithms
-**(Date: 05-Jan-2025)**
+**(Date: 05-Jan-2026)**
 
 - Bubble sort
 - Insertion sort
@@ -86,7 +86,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 19 – Searching Algorithms and other concepts
-**(Date: 06-Jan-2025)**
+**(Date: 06-Jan-2026)**
 
 - StringBuilder
 - StringBuffer
@@ -101,7 +101,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 20 –  Algorithm's Runtime Analysis & Big-O Notation
-**(Date: 07-Jan-2025)**
+**(Date: 07-Jan-2026)**
 
 - What is Runtime Analysis?
 - Understanding Big-O Notation
@@ -118,7 +118,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 23 –  Scenario-based problems
-**(Date: 10-Jan-2025)**
+**(Date: 10-Jan-2026)**
 
 - BookShelf – Library Organizer (HashMap + Linked List)
 - BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
@@ -134,7 +134,7 @@ BridgeLabz-Training/
 ## 📅 Week 5: Scenario-based problems (based on LL, DLL, CLL, Stack, Queue and HashMap)
 
 ### 🗓 Day 24 –  Scenario-based problems
-**(Date: 12-Jan-2025)**
+**(Date: 12-Jan-2026)**
 
 - Scenario-based problems: 
   - CallCenter – Customer Queue Manager (Queue + HashMap)
@@ -150,7 +150,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 25 –  Scenario-based problems
-**(Date: 13-Jan-2025)**
+**(Date: 13-Jan-2026)**
 
 - Scenario-based problems: 
   - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
@@ -166,7 +166,7 @@ Functions)
 ---
 
 ### 🗓 Day 26 –  Scenario-based problems
-**(Date: 15-Jan-2025)**
+**(Date: 15-Jan-2026)**
 
 - Scenario-based problems (Based on sorting algorithms): 
   - HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
@@ -183,7 +183,7 @@ Functions)
 ---
 
 ### 🗓 Day 27 –  Scenario-based problems
-**(Date: 16-Jan-2025)**
+**(Date: 16-Jan-2026)**
 
 - Scenario-based problems (Based on sorting algorithms): 
   - RoboWarehouse – Shelf Loading Robot (Insertion Sort)
@@ -198,7 +198,7 @@ Functions)
 ---
 
 ### 🗓 Day 28 –  Scenario-based problems
-**(Date: 17-Jan-2025)**
+**(Date: 17-Jan-2026)**
 
 - Scenario-based problems (Based on sorting algorithms): 
   - ArtExpo – Sort Artists by Registration Time (Insertion Sort)
@@ -216,7 +216,7 @@ Functions)
 ## 📅 Week 6: Scenario-based problems (based on Sorting)
 
 ### 🗓 Day 29 –  Scenario-based problems
-**(Date: 19-Jan-2025)**
+**(Date: 19-Jan-2026)**
 
 - Scenario-based problems (Based on sorting algorithms): 
   - EduResults – Rank Sheet Generator (Merge Sort)
@@ -231,7 +231,7 @@ Functions)
 ---
 
 ### 🗓 Day 30 –  Scenario-based problems
-**(Date: 20-Jan-2025)**
+**(Date: 20-Jan-2026)**
 
 - Scenario-based problems (Based on sorting algorithms): 
   - MovieTime – Theater Show Listings (Insertion Sort)
@@ -246,7 +246,7 @@ Functions)
 ---
 
 ### 🗓 Day 31 –  Scenario-based problems
-**(Date: 21-Jan-2025)**
+**(Date: 21-Jan-2026)**
 
 - Scenario-based problems (Based on sorting algorithms): 
   - TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
@@ -265,7 +265,7 @@ Functions)
 ---
 
 ### 🗓 Day 32 –  Scenario-based problems
-**(Date: 22-Jan-2025)**
+**(Date: 22-Jan-2026)**
 
 - Scenario-based problems (Based on AVL tree):
   - Gaming App - Real-Time Leaderboard

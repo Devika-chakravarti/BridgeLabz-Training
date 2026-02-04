@@ -3,7 +3,7 @@
 ## 📅 Week 6: Java I/O streams and File handling
 
 ### 🗓 Day 33 – CSV Data handling  (Branch: java-iostreams-practice) 
-**(Date: 23-Jan-2025)**
+**(Date: 23-Jan-2026)**
 
 - Set up and revised the java-iostreams-practice branch structure
 ```
@@ -32,7 +32,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 34 – JSON Data handling  
-**(Date: 24-Jan-2025)**
+**(Date: 24-Jan-2026)**
 
 - Introduction to JSON:
   - Reading JSON Data

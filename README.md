@@ -25,6 +25,9 @@ This repository documents my learning journey at BridgeLabz, spanning from Decem
 ### 🔹 [java8-programming-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java8-programming-practice)
 *Week 6* : Java 8 features
 
+### 🔹 [java-design-pattern-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-design-pattern-practice)
+*Week 7* : Java Design Principles & Patterns
+
 ---
 ## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
@@ -404,7 +407,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 15 – Leetcode questions (Branch: core-java-practice)
-**(Date: 01-Jan-2025)** 
+**(Date: 01-Jan-2026)** 
 - Leetcode problems(String problems):
   - Merge sorted array
   - Search insert position
@@ -417,7 +420,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 15 – Encapsulation, Interface, Abstract Classes, and Polymorphism  (Branch: java-oops-practice)
-**(Date: 01-Jan-2025)**
+**(Date: 01-Jan-2026)**
 
 - Encapsulation, it's key benefits and example
 - Polymorphism, it's key benefits and it's types
@@ -435,7 +438,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 16 – Scenario-based questions  (Branch: java-oops-practice)
-**(Date: 02-Jan-2025)**
+**(Date: 02-Jan-2026)**
 
 - Scenario-based questions:
   - Hospital Patient Management System
@@ -452,7 +455,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 16 – Introduction to DSA and Linkedlist (Branch: dsa-practice)
-**(Date: 02-Jan-2025)**
+**(Date: 02-Jan-2026)**
 
 - Introduction of Data Structure 
 - Key Features of Data Structures in Java
@@ -485,7 +488,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 17 – Scenario-based questions  (Branch: java-oops-practice)
-**(Date: 03-Jan-2025)**
+**(Date: 03-Jan-2026)**
 
 - Scenario-based questions:
   - CabbyGo – A Ride-Hailing App in the Making
@@ -499,7 +502,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 17 – Introduction to Stack, Queue, HashMap and Hashing function (Branch: dsa-practice)
-**(Date: 03-Jan-2025)**
+**(Date: 03-Jan-2026)**
 
 - Introduction to Stack:
   - Key characteristics
@@ -533,7 +536,7 @@ BridgeLabz-Training/
 ## 📅 Week 4: DSA (continue in dsa-practice) and OOPs scenario-based problems (in java-oops-practice) 
 
 ### 🗓 Day 18 – Scenario-based questions  (Branch: java-oops-practice)
-**(Date: 05-Jan-2025)**
+**(Date: 05-Jan-2026)**
 
 - Scenario-based questions:
   - CampusConnect – College Information System
@@ -547,7 +550,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 18 – Sorting algorithms  (Branch: dsa-practice)
-**(Date: 05-Jan-2025)**
+**(Date: 05-Jan-2026)**
 
 - Bubble sort
 - Insertion sort
@@ -563,7 +566,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 19 – Scenario-based questions  (Branch: java-oops-practice)
-**(Date: 06-Jan-2025)**
+**(Date: 06-Jan-2026)**
 
 - Scenario-based questions:
   - EduMentor – Personalized Learning Platform
@@ -579,7 +582,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 19 – Searching Algorithms and other concepts  (Branch: dsa-practice)
-**(Date: 06-Jan-2025)**
+**(Date: 06-Jan-2026)**
 
 - StringBuilder
 - StringBuffer
@@ -594,7 +597,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 20 – Scenario-based questions  (Branch: java-oops-practice)
-**(Date: 07-Jan-2025)**
+**(Date: 07-Jan-2026)**
 
 - Scenario-based questions:
   - LoanBuddy – Loan Approval Automation
@@ -609,7 +612,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 20 –  Algorithm's Runtime Analysis & Big-O Notation  (Branch: dsa-practice)
-**(Date: 07-Jan-2025)**
+**(Date: 07-Jan-2026)**
 
 - What is Runtime Analysis?
 - Understanding Big-O Notation
@@ -626,7 +629,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 21 – Scenario-based questions  (Branch: java-oops-practice)
-**(Date: 08-Jan-2025)**
+**(Date: 08-Jan-2026)**
 
 - Scenario-based questions:
   - MediStore – Pharmacy Inventory & Sales System
@@ -640,7 +643,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 22 – Scenario-based questions  (Branch: java-oops-practice)
-**(Date: 09-Jan-2025)**
+**(Date: 09-Jan-2026)**
 
 - Scenario-based questions:
   - Artify – Digital Art Marketplace
@@ -655,7 +658,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 22 – Generics  (Branch: java-collections-practice)
-**(Date: 09-Jan-2025)**
+**(Date: 09-Jan-2026)**
 
 - Set up and revised the java-collections-practice branch structure
 ```
@@ -685,7 +688,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 23 –  Scenario-based problems  (Branch: dsa-practice)
-**(Date: 10-Jan-2025)**
+**(Date: 10-Jan-2026)**
 
 - BookShelf – Library Organizer (HashMap + Linked List)
 - BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
@@ -699,7 +702,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 24 – Leetcode questions  (Branch: core-java-practice)
-**(Date: 11-Jan-2025)** 
+**(Date: 11-Jan-2026)** 
 - Leetcode problems(Array problems):
   - Find All Numbers Disappeared in an Array
   - Find First and Last Position of Element in Sorted Array
@@ -715,7 +718,7 @@ BridgeLabz-Training/
 ## 📅 Week 5: Scenario-based problems (in dsa-practice and java-oops-practice)
 
 ### 🗓 Day 24 –  Scenario-based problems  (Branch: dsa-practice)
-**(Date: 12-Jan-2025)**
+**(Date: 12-Jan-2026)**
 
 - Scenario-based problems: 
   - CallCenter – Customer Queue Manager (Queue + HashMap)
@@ -731,7 +734,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 24 – Scenario-based questions  (Branch: java-oops-practice)
-**(Date: 12-Jan-2025)**
+**(Date: 12-Jan-2026)**
 
 - Scenario-based questions:
   - HomeNest – Smart Home Device Manager
@@ -746,7 +749,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 25 –  Scenario-based problems  (Branch: dsa-practice)
-**(Date: 13-Jan-2025)**
+**(Date: 13-Jan-2026)**
 
 - Scenario-based problems: 
   - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
@@ -762,7 +765,7 @@ Functions)
 ---
 
 ### 🗓 Day 25 – Scenario-based questions  (Branch: java-oops-practice)
-**(Date: 13-Jan-2025)**
+**(Date: 13-Jan-2026)**
 
 - Scenario-based questions:
   - PayXpress – Utility Bill Payment System
@@ -776,7 +779,7 @@ Functions)
 ---
 
 ### 🗓 Day 26 –  Scenario-based problems  (Branch: dsa-practice)
-**(Date: 15-Jan-2025)**
+**(Date: 15-Jan-2026)**
 
 - Scenario-based problems (Based on sorting algorithms): 
   - HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
@@ -793,7 +796,7 @@ Functions)
 ---
 
 ### 🗓 Day 27 –  Scenario-based problems  (Branch: dsa-practice)
-**(Date: 16-Jan-2025)**
+**(Date: 16-Jan-2026)**
 
 - Scenario-based problems (Based on sorting algorithms): 
   - RoboWarehouse – Shelf Loading Robot (Insertion Sort)
@@ -808,7 +811,7 @@ Functions)
 ---
 
 ### 🗓 Day 27 – Leetcode questions  (Branch: core-java-practice)
-**(Date: 16-Jan-2025)** 
+**(Date: 16-Jan-2026)** 
 - Leetcode problems(Array problems):
   - Rotate array
   - Container with most water
@@ -822,7 +825,7 @@ Functions)
 ---
 
 ### 🗓 Day 27 – Collection frameworks (List, Set, Queue, Map)  (Branch: java-collections-practice)
-**(Date: 16-Jan-2025)**
+**(Date: 16-Jan-2026)**
 
 - Studied Java Collections Framework architecture and hierarchy.
 - Understood the role of `Collection` and `Map` interfaces.
@@ -861,7 +864,7 @@ Functions)
 ---
 
 ### 🗓 Day 28 –  Scenario-based problems  (Branch: dsa-practice)
-**(Date: 17-Jan-2025)**
+**(Date: 17-Jan-2026)**
 
 - Scenario-based problems (Based on sorting algorithms): 
   - ArtExpo – Sort Artists by Registration Time (Insertion Sort)
@@ -877,7 +880,7 @@ Functions)
 ---
 
 ### 🗓 Day 28 – Leetcode questions  (Branch: core-java-practice)
-**(Date: 17-Jan-2025)** 
+**(Date: 17-Jan-2026)** 
 - Leetcode problems(Array problems):
   - Squares of a sorted array
   - Product of array except self
@@ -890,7 +893,7 @@ Functions)
 ---
 
 ### 🗓 Day 28 – Scenario-based questions  (Branch: java-oops-practice)
-**(Date: 17-Jan-2025)**
+**(Date: 17-Jan-2026)**
 
 - Scenario-based questions:
   - GeoMeasure Solutions
@@ -904,7 +907,7 @@ Functions)
 ---
 
 ### 🗓 Day 29 – Leetcode questions  (Branch: core-java-practice)
-**(Date: 18-Jan-2025)** 
+**(Date: 18-Jan-2026)** 
 - Leetcode problems(Array & String problems):
   - Largest number
   - Length of the last word
@@ -920,7 +923,7 @@ Functions)
 ## 📅 Week 6: Scenario-based problems (in dsa-practice, java-oops-practice and java-collections-practice)
 
 ### 🗓 Day 29 –  Scenario-based problems  (Branch: dsa-practice)
-**(Date: 19-Jan-2025)**
+**(Date: 19-Jan-2026)**
 
 - Scenario-based problems (Based on sorting algorithms): 
   - EduResults – Rank Sheet Generator (Merge Sort)
@@ -935,7 +938,7 @@ Functions)
 ---
 
 ### 🗓 Day 29 – Scenario-based questions  (Branch: java-oops-practice)
-**(Date: 19-Jan-2025)**
+**(Date: 19-Jan-2026)**
 
 - Scenario-based questions:
   - Address book system
@@ -948,7 +951,7 @@ Functions)
 ---
 
 ### 🗓 Day 29 – Java Streams  (Branch: java-collections-practice)
-**(Date: 19-Jan-2025)**
+**(Date: 19-Jan-2026)**
 
 - Java I/O Streams
 - Types of Streams
@@ -966,7 +969,7 @@ Functions)
 ---
 
 ### 🗓 Day 30 –  Scenario-based problems  (Branch: dsa-practice)
-**(Date: 20-Jan-2025)**
+**(Date: 20-Jan-2026)**
 
 - Scenario-based problems (Based on sorting algorithms): 
   - MovieTime – Theater Show Listings (Insertion Sort)
@@ -981,7 +984,7 @@ Functions)
 ---
 
 ### 🗓 Day 30 – Exceptions  (Branch: java-collections-practice)
-**(Date: 20-Jan-2025)**
+**(Date: 20-Jan-2026)**
 
 - Exceptions 
 - Types of Exceptions
@@ -1004,7 +1007,7 @@ Functions)
 ---
 
 ### 🗓 Day 31 –  Scenario-based problems  (Branch: dsa-practice)
-**(Date: 21-Jan-2025)**
+**(Date: 21-Jan-2026)**
 
 - Scenario-based problems (Based on sorting algorithms): 
   - TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
@@ -1023,7 +1026,7 @@ Functions)
 ---
 
 ### 🗓 Day 31 – Regex and JUnit testing  (Branch: java-collections-practice)
-**(Date: 21-Jan-2025)**
+**(Date: 21-Jan-2026)**
 
 - Regex 
 - MetaCharacter
@@ -1052,7 +1055,7 @@ Functions)
 ---
 
 ### 🗓 Day 32 –  Scenario-based problems  (Branch: dsa-practice)
-**(Date: 22-Jan-2025)**
+**(Date: 22-Jan-2026)**
 
 - Scenario-based problems (Based on AVL tree):
   - Gaming App - Real-Time Leaderboard
@@ -1067,7 +1070,7 @@ Functions)
 ---
 
 ### 🗓 Day 32 – Annotations and Reflection  (Branch: java-collections-practice)
-**(Date: 22-Jan-2025)**
+**(Date: 22-Jan-2026)**
 
 - Introduction to Annotations
   - Common Built-in Annotations
@@ -1087,7 +1090,7 @@ Functions)
 ---
 
 ### 🗓 Day 33 – CSV Data handling  (Branch: java-iostreams-practice) 
-**(Date: 23-Jan-2025)**
+**(Date: 23-Jan-2026)**
 
 - Set up and revised the java-iostreams-practice branch structure
 ```
@@ -1116,7 +1119,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 33 – CSV Data handling  (Branch: java-iostreams-practice) 
-**(Date: 23-Jan-2025)**
+**(Date: 23-Jan-2026)**
 
 - Set up and revised the java-iostreams-practice branch structure
 ```
@@ -1145,7 +1148,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 34 – Scenario-based problems  (Branch: java-collections-practice) 
-**(Date: 24-Jan-2025)**
+**(Date: 24-Jan-2026)**
 
 - Scenario-based problems (based on collections, regex, generics and IO Streams):
   - MedInventory – Smart Hospital Inventory Tracker
@@ -1161,7 +1164,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 34 – JSON Data handling  (Branch: java-iostreams-practice)
-**(Date: 24-Jan-2025)**
+**(Date: 24-Jan-2026)**
 
 - Introduction to JSON:
   - Reading JSON Data
@@ -1177,7 +1180,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 37 – Structured the branch for Java 8 features  (Branch: java8-programming-practice)
-**(Date: 27-Jan-2025)**
+**(Date: 27-Jan-2026)**
 
 - Set up and revised the java8-programming-practice branch structure
 ```
@@ -1208,7 +1211,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 37 – Interfaces (Branch: java8-programming-practice)
-**(Date: 27-Jan-2025)**
+**(Date: 27-Jan-2026)**
 
 - Introduction to Interfaces (in java 8 version):
   - Defining and Implementing Interfaces (Best Practices)
@@ -1224,7 +1227,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 38 – Stream API (Branch: java8-programming-practice)
-**(Date: 28-Jan-2025)**
+**(Date: 28-Jan-2026)**
 
 - Introduction to Stream API:
   - Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
@@ -1242,7 +1245,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 38 – Collectors  (Branch: java8-programming-practice)
-**(Date: 28-Jan-2025)**
+**(Date: 28-Jan-2026)**
 
 - Introduction to Collectors:
   - It's roles and capabilities

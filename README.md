@@ -3,7 +3,7 @@
 ## 📅 Week 4: Structured the branch and Generics
 
 ### 🗓 Day 22 – Generics
-**(Date: 09-Jan-2025)**
+**(Date: 09-Jan-2026)**
 
 - Set up and revised the java-collections-practice branch structure
 ```
@@ -35,7 +35,7 @@ BridgeLabz-Training/
 ## 📅 Week 5: Collection frameworks
 
 ### 🗓 Day 27 – Collection frameworks (List, Set, Queue, Map)
-**(Date: 16-Jan-2025)**
+**(Date: 16-Jan-2026)**
 
 - Studied Java Collections Framework architecture and hierarchy.
 - Understood the role of `Collection` and `Map` interfaces.
@@ -73,10 +73,10 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Week 6: Java streams
+## 📅 Week 6: Java I/O streams
 
 ### 🗓 Day 29 – Java Streams
-**(Date: 19-Jan-2025)**
+**(Date: 19-Jan-2026)**
 
 - Java I/O Streams
 - Types of Streams
@@ -94,7 +94,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 30 – Exceptions
-**(Date: 20-Jan-2025)**
+**(Date: 20-Jan-2026)**
 
 - Exceptions 
 - Types of Exceptions
@@ -117,7 +117,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 31 – Regex and JUnit testing
-**(Date: 21-Jan-2025)**
+**(Date: 21-Jan-2026)**
 
 - Regex 
 - MetaCharacter
@@ -146,7 +146,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 32 – Annotations and Reflection
-**(Date: 22-Jan-2025)**
+**(Date: 22-Jan-2026)**
 
 - Introduction to Annotations
   - Common Built-in Annotations

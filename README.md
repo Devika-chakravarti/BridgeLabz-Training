@@ -3,7 +3,7 @@
 ## 📅 Week 6: Java 8 features
 
 ### 🗓 Day 37 – Structured the branch for Java 8 features
-**(Date: 27-Jan-2025)**
+**(Date: 27-Jan-2026)**
 
 - Set up and revised the java8-programming-practice branch structure
 ```
@@ -34,7 +34,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 37 – Interfaces 
-**(Date: 27-Jan-2025)**
+**(Date: 27-Jan-2026)**
 
 - Introduction to Interfaces (in java 8 version):
   - Defining and Implementing Interfaces (Best Practices)
@@ -50,7 +50,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 38 – Stream API 
-**(Date: 28-Jan-2025)**
+**(Date: 28-Jan-2026)**
 
 - Introduction to Stream API:
   - Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
@@ -68,7 +68,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 38 – Collectors
-**(Date: 28-Jan-2025)**
+**(Date: 28-Jan-2026)**
 
 - Introduction to Collectors:
   - It's roles and capabilities

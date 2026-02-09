@@ -1,0 +1,107 @@
+Exercise 1: Simple CRUD Application
+Create a console-based Employee Management System with:
+• Add employee
+• View all employees
+• Update employee salary
+• Delete employee
+• Search employee by name
+
+mysql> CREATE DATABASE practice_db;
+Query OK, 1 row affected (0.01 sec)
+
+mysql> USE practice_db;
+Database changed
+
+mysql> DROP TABLE IF EXISTS employee;
+Query OK, 0 rows affected, 1 warning (0.01 sec)
+
+mysql> CREATE TABLE employee(
+    -> employee_id INT PRIMARY KEY,
+    -> name VARCHAR(50) NOT NULL,
+    -> salary DECIMAL(10,2) NOT NULL,
+    -> department VARCHAR(40)
+    -> );
+Query OK, 0 rows affected (0.06 sec)
+
+mysql> DESC employee;
++-------------+---------------+------+-----+---------+-------+
+| Field       | Type          | Null | Key | Default | Extra |
++-------------+---------------+------+-----+---------+-------+
+| employee_id | int           | NO   | PRI | NULL    |       |
+| name        | varchar(50)   | NO   |     | NULL    |       |
+| salary      | decimal(10,2) | NO   |     | NULL    |       |
+| department  | varchar(40)   | YES  |     | NULL    |       |
++-------------+---------------+------+-----+---------+-------+
+4 rows in set (0.02 sec)
+
+/*ADD EMPLOYEE*/
+
+mysql> INSERT INTO employee(employee_id, name, salary, department)
+    -> VALUES
+    -> (101,'Devika Chakravarti', 100000, 'Designing'),
+    -> (102,'Annu singh', 80000, 'Development'),
+    -> (103,'Shivam mishra', 95000, 'DevOps'),
+    -> (104,'Astha singh', 70000, 'Testing'),
+    -> (105,'Avantika sharma', 65000, 'Management');
+Query OK, 5 rows affected (0.01 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+
+/*VIEW ALL EMPLOYEES*/
+
+mysql> SELECT * FROM employee;
++-------------+--------------------+-----------+-------------+
+| employee_id | name               | salary    | department  |
++-------------+--------------------+-----------+-------------+
+|         101 | Devika Chakravarti | 100000.00 | Designing   |
+|         102 | Annu singh         |  80000.00 | Development |
+|         103 | Shivam mishra      |  95000.00 | DevOps      |
+|         104 | Astha singh        |  70000.00 | Testing     |
+|         105 | Avantika sharma    |  65000.00 | Management  |
++-------------+--------------------+-----------+-------------+
+5 rows in set (0.00 sec)
+
+/*UPDATE EMPLOYEE SALARY*/
+
+mysql> UPDATE employee
+    -> SET salary = 85000
+    -> WHERE name = 'Annu singh';
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> SELECT * FROM employee WHERE name = 'Annu singh';
++-------------+------------+----------+-------------+
+| employee_id | name       | salary   | department  |
++-------------+------------+----------+-------------+
+|         102 | Annu singh | 85000.00 | Development |
++-------------+------------+----------+-------------+
+1 row in set (0.00 sec)
+
+/*DELETE EMPLOYEE*/
+
+mysql> DELETE FROM employee
+    -> WHERE name = 'Astha singh';
+Query OK, 1 row affected (0.01 sec)
+
+mysql> SELECT * FROM employee;
++-------------+--------------------+-----------+-------------+
+| employee_id | name               | salary    | department  |
++-------------+--------------------+-----------+-------------+
+|         101 | Devika Chakravarti | 100000.00 | Designing   |
+|         102 | Annu singh         |  85000.00 | Development |
+|         103 | Shivam mishra      |  95000.00 | DevOps      |
+|         105 | Avantika sharma    |  65000.00 | Management  |
++-------------+--------------------+-----------+-------------+
+4 rows in set (0.00 sec)
+
+/*SEARCH EMPLOYEE*/
+
+mysql> SELECT * FROM employee
+    -> WHERE name LIKE '%ika%';
++-------------+--------------------+-----------+------------+
+| employee_id | name               | salary    | department |
++-------------+--------------------+-----------+------------+
+|         101 | Devika Chakravarti | 100000.00 | Designing  |
+|         105 | Avantika sharma    |  65000.00 | Management |
++-------------+--------------------+-----------+------------+
+2 rows in set (0.01 sec)
+

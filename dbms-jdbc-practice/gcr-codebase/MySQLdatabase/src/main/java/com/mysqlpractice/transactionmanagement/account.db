@@ -1,0 +1,170 @@
+Exercise 2: Transaction Management
+Implement a banking system with:
+• Transfer money between accounts (use transactions)
+• Check balance
+• Transaction history
+
+mysql> USE practice_db;
+Database changed
+
+mysql> DROP TABLE IF EXISTS transaction_history;
+Query OK, 0 rows affected, 1 warning (0.01 sec)
+
+mysql> DROP TABLE IF EXISTS account;
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+mysql> CREATE TABLE account(
+    -> account_id INT PRIMARY KEY,
+    -> holder_name VARCHAR(50) NOT NULL,
+    -> balance DECIMAL(12,2) NOT NULL
+    -> );
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> DESC account;
++-------------+---------------+------+-----+---------+-------+
+| Field       | Type          | Null | Key | Default | Extra |
++-------------+---------------+------+-----+---------+-------+
+| account_id  | int           | NO   | PRI | NULL    |       |
+| holder_name | varchar(50)   | NO   |     | NULL    |       |
+| balance     | decimal(12,2) | NO   |     | NULL    |       |
++-------------+---------------+------+-----+---------+-------+
+3 rows in set (0.00 sec)
+
+mysql> CREATE TABLE transaction_history(
+    -> transaction_id INT PRIMARY KEY,
+    -> from_account INT,
+    -> to_account INT,
+    -> account DECIMAL(12,2),
+    -> transaction_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    -> FOREIGN KEY (from_account) REFERENCES account(account_id)
+    -> );
+Query OK, 0 rows affected (0.04 sec)
+
+mysql> DESC transaction_history;
++------------------+---------------+------+-----+-------------------+-------------------+
+| Field            | Type          | Null | Key | Default           | Extra             |
++------------------+---------------+------+-----+-------------------+-------------------+
+| transaction_id   | int           | NO   | PRI | NULL              |                   |
+| from_account     | int           | YES  | MUL | NULL              |                   |
+| to_account       | int           | YES  |     | NULL              |                   |
+| account          | decimal(12,2) | YES  |     | NULL              |                   |
+| transaction_time | timestamp     | YES  |     | CURRENT_TIMESTAMP | DEFAULT_GENERATED |
++------------------+---------------+------+-----+-------------------+-------------------+
+5 rows in set (0.00 sec)
+
+mysql> INSERT INTO account(account_id,holder_name,balance)
+    -> VALUES
+    -> (101, 'Devika chakravarti', 500000),
+    -> (102, 'Shivam mishra', 200000),
+    -> (103, 'Astha singh', 250000),
+    -> (104, 'Madhvi vaghela', 300000);
+Query OK, 4 rows affected (0.01 sec)
+Records: 4  Duplicates: 0  Warnings: 0
+
+mysql> SELECT * FROM account;
++------------+--------------------+-----------+
+| account_id | holder_name        | balance   |
++------------+--------------------+-----------+
+|        101 | Devika chakravarti | 500000.00 |
+|        102 | Shivam mishra      | 200000.00 |
+|        103 | Astha singh        | 250000.00 |
+|        104 | Madhvi vaghela     | 300000.00 |
++------------+--------------------+-----------+
+4 rows in set (0.00 sec)
+
+/*TRANSFER MONEY BETWEEN ACCOUNTS*/
+
+mysql> START TRANSACTION;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> UPDATE account
+    -> SET balance = balance - 1000
+    -> WHERE account_id = 101;
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> UPDATE account
+    -> SET balance = balance + 1000
+    -> WHERE account_id = 103;
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> INSERT INTO transaction_history (transaction_id, from_Account, to_account, account)
+    -> VALUES (1, 101, 103, 1000);
+Query OK, 1 row affected (0.00 sec)
+
+mysql> COMMIT;
+Query OK, 0 rows affected (0.01 sec)
+
+/*BALANCE CHECK*/
+
+mysql> SELECT * FROM account;
++------------+--------------------+-----------+
+| account_id | holder_name        | balance   |
++------------+--------------------+-----------+
+|        101 | Devika chakravarti | 499000.00 |
+|        102 | Shivam mishra      | 200000.00 |
+|        103 | Astha singh        | 251000.00 |
+|        104 | Madhvi vaghela     | 300000.00 |
++------------+--------------------+-----------+
+4 rows in set (0.00 sec)
+
+mysql> SELECT account_id, holder_name, balance
+    -> FROM account
+    -> WHERE holder_name = 'Devika chakravarti';
++------------+--------------------+-----------+
+| account_id | holder_name        | balance   |
++------------+--------------------+-----------+
+|        101 | Devika chakravarti | 499000.00 |
++------------+--------------------+-----------+
+1 row in set (0.00 sec)
+
+mysql> SELECT account_id, holder_name, balance
+    -> FROM account
+    -> WHERE holder_name = 'Astha singh';
++------------+-------------+-----------+
+| account_id | holder_name | balance   |
++------------+-------------+-----------+
+|        103 | Astha singh | 251000.00 |
++------------+-------------+-----------+
+1 row in set (0.00 sec)
+
+/*TRANSACTION HISTORY*/
+
+mysql> SELECT * FROM transaction_history;
++----------------+--------------+------------+---------+---------------------+
+| transaction_id | from_account | to_account | account | transaction_time    |
++----------------+--------------+------------+---------+---------------------+
+|              1 |          101 |        103 | 1000.00 | 2026-02-09 13:01:29 |
++----------------+--------------+------------+---------+---------------------+
+1 row in set (0.00 sec)
+
+mysql> START TRANSACTION;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> UPDATE account
+    -> SET balance = balance - 1000
+    -> WHERE account_id = 102;
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> SELECT * FROM account
+    -> WHERE account_id = 102;
++------------+---------------+-----------+
+| account_id | holder_name   | balance   |
++------------+---------------+-----------+
+|        102 | Shivam mishra | 199000.00 |
++------------+---------------+-----------+
+1 row in set (0.00 sec)
+
+mysql> ROLLBACK;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> SELECT * FROM account
+    -> WHERE account_id = 102;
++------------+---------------+-----------+
+| account_id | holder_name   | balance   |
++------------+---------------+-----------+
+|        102 | Shivam mishra | 200000.00 |
++------------+---------------+-----------+
+1 row in set (0.00 sec)

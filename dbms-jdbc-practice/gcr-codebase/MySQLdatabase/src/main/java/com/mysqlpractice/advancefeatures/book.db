@@ -1,0 +1,176 @@
+Exercise 3: Advanced Features
+Build a library management system with:
+• Book inventory
+• Student borrowing records
+• Fine calculation
+• Search functionality with multiple filters
+
+mysql> USE practice_db;
+Database changed
+
+mysql> DROP TABLE IF EXISTS book;
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+mysql> DROP TABLE IF EXISTS borrow_record;
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+mysql> DROP TABLE IF EXISTS student;
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+/*BOOK INVENTORY*/
+
+mysql> CREATE TABLE student (
+    -> student_id INT PRIMARY KEY,
+    -> student_name VARCHAR(60) NOT NULL
+    -> );
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> DESC student;
++--------------+-------------+------+-----+---------+-------+
+| Field        | Type        | Null | Key | Default | Extra |
++--------------+-------------+------+-----+---------+-------+
+| student_id   | int         | NO   | PRI | NULL    |       |
+| student_name | varchar(60) | NO   |     | NULL    |       |
++--------------+-------------+------+-----+---------+-------+
+2 rows in set (0.01 sec)
+
+mysql> CREATE TABLE book (
+    -> book_id INT PRIMARY KEY,
+    -> title VARCHAR(100) NOT NULL,
+    -> author VARCHAR(100),
+    -> genre VARCHAR(100),
+    -> copies_available INT NOT NULL
+    -> );
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> DESC book;
++------------------+--------------+------+-----+---------+-------+
+| Field            | Type         | Null | Key | Default | Extra |
++------------------+--------------+------+-----+---------+-------+
+| book_id          | int          | NO   | PRI | NULL    |       |
+| title            | varchar(100) | NO   |     | NULL    |       |
+| author           | varchar(100) | YES  |     | NULL    |       |
+| genre            | varchar(100) | YES  |     | NULL    |       |
+| copies_available | int          | NO   |     | NULL    |       |
++------------------+--------------+------+-----+---------+-------+
+5 rows in set (0.00 sec)
+
+mysql> CREATE TABLE borrow_record (
+    -> borrow_id INT PRIMARY KEY,
+    -> student_id INT,
+    -> book_id INT,
+    -> borrow_date DATE,
+    -> return_date DATE,
+    -> fine_amount DECIMAL(10,2),
+    -> FOREIGN KEY (student_id) REFERENCES student(student_id),
+    -> FOREIGN KEY (book_id) REFERENCES book(book_id)
+    -> );
+Query OK, 0 rows affected (0.04 sec)
+
+mysql> DESC borrow_record;
++-------------+---------------+------+-----+---------+-------+
+| Field       | Type          | Null | Key | Default | Extra |
++-------------+---------------+------+-----+---------+-------+
+| borrow_id   | int           | NO   | PRI | NULL    |       |
+| student_id  | int           | YES  | MUL | NULL    |       |
+| book_id     | int           | YES  | MUL | NULL    |       |
+| borrow_date | date          | YES  |     | NULL    |       |
+| return_date | date          | YES  |     | NULL    |       |
+| fine_amount | decimal(10,2) | YES  |     | NULL    |       |
++-------------+---------------+------+-----+---------+-------+
+6 rows in set (0.00 sec)
+
+mysql> INSERT INTO book (book_id, title, author, genre, copies_available)
+    -> VALUES
+    -> (1001, 'The Alchemist', 'Paulo coelho', 'Fiction', 100),
+    -> (1002, 'The Atomic habits', 'James clear', 'Self-help', 50),
+    -> (1003, 'Clean code', 'Robert C. Martin', 'Fantasy', 60),
+    -> (1004, 'The silent patient', 'Alex Michaelides', 'Mystery', 80);
+Query OK, 4 rows affected (0.01 sec)
+Records: 4  Duplicates: 0  Warnings: 0
+
+mysql> SELECT * FROM book;
++---------+--------------------+------------------+-----------+------------------+
+| book_id | title              | author           | genre     | copies_available |
++---------+--------------------+------------------+-----------+------------------+
+|    1001 | The Alchemist      | Paulo coelho     | Fiction   |              100 |
+|    1002 | The Atomic habits  | James clear      | Self-help |               50 |
+|    1003 | Clean code         | Robert C. Martin | Fantasy   |               60 |
+|    1004 | The silent patient | Alex Michaelides | Mystery   |               80 |
++---------+--------------------+------------------+-----------+------------------+
+4 rows in set (0.00 sec)
+
+mysql> INSERT INTO student (student_id, student_name)
+    -> VALUES
+    -> (1, 'Devika chakravarti'),
+    -> (2, 'Astha singh'),
+    -> (3, 'Shivam Mishra'),
+    -> (4, 'Madhvi vaghela');
+Query OK, 4 rows affected (0.01 sec)
+Records: 4  Duplicates: 0  Warnings: 0
+
+mysql> SELECT * FROM student;
++------------+--------------------+
+| student_id | student_name       |
++------------+--------------------+
+|          1 | Devika chakravarti |
+|          2 | Astha singh        |
+|          3 | Shivam Mishra      |
+|          4 | Madhvi vaghela     |
++------------+--------------------+
+4 rows in set (0.00 sec)
+
+/*STUDENT BORROWING RECORDS*/
+
+mysql> INSERT INTO borrow_record (borrow_id, student_id, book_id, borrow_date, return_date, fine_amount)
+    -> VALUES
+    -> (101, 1, 1001, '2026-02-01', '2026-02-20', 0);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> UPDATE book
+    -> SET copies_available = copies_available - 1
+    -> WHERE book_id = 1001;
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+/*FINE CALCULATION*/
+
+mysql> UPDATE borrow_record
+    -> SET fine_amount = DATEDIFF(return_date, borrow_date) > 7 * (DATEDIFF(return_date, borrow_date)-7) * 10
+    -> WHERE borrow_id = 101;
+Query OK, 0 rows affected (0.01 sec)
+Rows matched: 1  Changed: 0  Warnings: 0
+
+mysql> SELECT * FROM borrow_record;
++-----------+------------+---------+-------------+-------------+-------------+
+| borrow_id | student_id | book_id | borrow_date | return_date | fine_amount |
++-----------+------------+---------+-------------+-------------+-------------+
+|       101 |          1 |    1001 | 2026-02-01  | 2026-02-20  |        0.00 |
++-----------+------------+---------+-------------+-------------+-------------+
+1 row in set (0.00 sec)
+
+/*SEARCH FUNCTIONALITIES*/
+
+mysql> SELECT * FROM book
+    -> WHERE genre = 'Fiction'
+    -> AND author LIKE '%Paulo%';
++---------+---------------+--------------+---------+------------------+
+| book_id | title         | author       | genre   | copies_available |
++---------+---------------+--------------+---------+------------------+
+|    1001 | The Alchemist | Paulo coelho | Fiction |               99 |
++---------+---------------+--------------+---------+------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT title, copies_available
+    -> FROM book
+    -> WHERE copies_available > 0;
++--------------------+------------------+
+| title              | copies_available |
++--------------------+------------------+
+| The Alchemist      |               99 |
+| The Atomic habits  |               50 |
+| Clean code         |               60 |
+| The silent patient |               80 |
++--------------------+------------------+
+4 rows in set (0.00 sec)
+

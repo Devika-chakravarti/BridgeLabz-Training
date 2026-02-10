@@ -28,6 +28,9 @@ This repository documents my learning journey at BridgeLabz, spanning from Decem
 ### 🔹 [java-design-pattern-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/java-design-pattern-practice)
 *Week 7* : Java Design Principles & Patterns
 
+### 🔹 [dbms-jdbc-practice](https://github.com/Devika-chakravarti/BridgeLabz-Training/tree/dbms-jdbc-practice)
+*Week 8* : DBMS and JDBC 
+
 ---
 ## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
